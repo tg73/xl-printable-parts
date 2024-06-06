@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'x-carriage-cover.stp',
-/* time_stamp */ '2023-12-19T13:29:19+01:00',
-/* author */ ('Dominik Tebich'),
+/* name */ 'x-carriage-cover_R.stp',
+/* time_stamp */ '2024-01-18T11:34:14+01:00',
+/* author */ ('Mikul\X\E1\X2\010D\X0\ek'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
 /* originating_system */ 'Autodesk Inventor 2023',

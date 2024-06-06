@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'extruder-main-plate-xl.stp',
-/* time_stamp */ '2023-12-19T11:26:35+01:00',
-/* author */ ('Dominik Tebich'),
+/* name */ 'extruder-main-plate-xl_R.stp',
+/* time_stamp */ '2024-01-18T11:21:01+01:00',
+/* author */ ('Mikul\X\E1\X2\010D\X0\ek'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
 /* originating_system */ 'Autodesk Inventor 2023',
@@ -4567,7 +4567,7 @@ POSITIVE_RATIO_MEASURE(1.13),#3458);
 #4255=DIRECTION('ref_axis',(0.725731919596469,-0.687977602018281,0.));
 #4256=DIRECTION('center_axis',(0.,0.,-1.));
 #4257=DIRECTION('ref_axis',(0.725731919596469,-0.687977602018281,0.));
-#4258=DIRECTION('center_axis',(0.281958170628863,-0.648459397353159,0.70710678118655));
+#4258=DIRECTION('center_axis',(0.281958170628863,-0.648459397353158,0.70710678118655));
 #4259=DIRECTION('ref_axis',(0.92887682671443,0.,-0.370388769798614));
 #4260=DIRECTION('',(0.917060074385124,0.398749068925246,0.));
 #4261=DIRECTION('',(-0.917060074385124,-0.398749068925246,0.));
@@ -6870,18 +6870,17 @@ SOLID_ANGLE_UNIT()
 #6523=PRODUCT_DEFINITION_SHAPE('',$,#6526);
 #6524=SHAPE_REPRESENTATION('',(#3473),#6516);
 #6525=PRODUCT_DEFINITION_CONTEXT('part definition',#6530,'design');
-#6526=PRODUCT_DEFINITION('extruder-main-plate-xl_F1',
-'extruder-main-plate-xl_F1',#6527,#6525);
+#6526=PRODUCT_DEFINITION('extruder-main-plate-xl',
+'extruder-main-plate-xl',#6527,#6525);
 #6527=PRODUCT_DEFINITION_FORMATION('',$,#6532);
-#6528=PRODUCT_RELATED_PRODUCT_CATEGORY('extruder-main-plate-xl_F1',
-'extruder-main-plate-xl_F1',(#6532));
+#6528=PRODUCT_RELATED_PRODUCT_CATEGORY('extruder-main-plate-xl',
+'extruder-main-plate-xl',(#6532));
 #6529=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#6530);
 #6530=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #6531=PRODUCT_CONTEXT('part definition',#6530,'mechanical');
-#6532=PRODUCT('extruder-main-plate-xl_F1','extruder-main-plate-xl_F1',$,
-(#6531));
+#6532=PRODUCT('extruder-main-plate-xl','extruder-main-plate-xl',$,(#6531));
 #6533=PRESENTATION_STYLE_ASSIGNMENT((#6534));
 #6534=SURFACE_STYLE_USAGE(.BOTH.,#6537);
 #6535=SURFACE_STYLE_RENDERING_WITH_PROPERTIES($,#6541,(#6536));

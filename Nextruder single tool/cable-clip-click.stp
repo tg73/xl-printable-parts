@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'cable-clip-click.stp',
-/* time_stamp */ '2023-12-19T11:01:24+01:00',
-/* author */ ('Dominik Tebich'),
+/* name */ 'cable-clip-click_R.stp',
+/* time_stamp */ '2024-01-18T10:52:25+01:00',
+/* author */ ('Mikul\X\E1\X2\010D\X0\ek'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
 /* originating_system */ 'Autodesk Inventor 2023',
@@ -1615,17 +1615,16 @@ SOLID_ANGLE_UNIT()
 #1531=PRODUCT_DEFINITION_SHAPE('',$,#1534);
 #1532=SHAPE_REPRESENTATION('',(#918),#1524);
 #1533=PRODUCT_DEFINITION_CONTEXT('part definition',#1538,'design');
-#1534=PRODUCT_DEFINITION('cable-clip-click_F1','cable-clip-click_F1',#1535,
-#1533);
+#1534=PRODUCT_DEFINITION('cable-clip-click','cable-clip-click',#1535,#1533);
 #1535=PRODUCT_DEFINITION_FORMATION('proto',$,#1540);
-#1536=PRODUCT_RELATED_PRODUCT_CATEGORY('cable-clip-click_F1',
-'cable-clip-click_F1',(#1540));
+#1536=PRODUCT_RELATED_PRODUCT_CATEGORY('cable-clip-click',
+'cable-clip-click',(#1540));
 #1537=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#1538);
 #1538=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #1539=PRODUCT_CONTEXT('part definition',#1538,'mechanical');
-#1540=PRODUCT('cable-clip-click_F1','cable-clip-click_F1',$,(#1539));
+#1540=PRODUCT('cable-clip-click','cable-clip-click',$,(#1539));
 #1541=PRESENTATION_STYLE_ASSIGNMENT((#1542));
 #1542=SURFACE_STYLE_USAGE(.BOTH.,#1545);
 #1543=SURFACE_STYLE_RENDERING_WITH_PROPERTIES($,#1549,(#1544));

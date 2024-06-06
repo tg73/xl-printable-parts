@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'dwarf-cover-connector.stp',
-/* time_stamp */ '2023-12-19T11:12:24+01:00',
-/* author */ ('Dominik Tebich'),
+/* name */ 'dwarf-cover-connector_R.stp',
+/* time_stamp */ '2024-01-18T11:16:24+01:00',
+/* author */ ('Mikul\X\E1\X2\010D\X0\ek'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
 /* originating_system */ 'Autodesk Inventor 2023',
@@ -8973,7 +8973,7 @@ SOLID_ANGLE_UNIT()
 #8187=PRODUCT_DEFINITION_CONTEXT('part definition',#8192,'design');
 #8188=PRODUCT_DEFINITION('dwarf-cover-connector',
 'dwarf-cover-connector',#8189,#8187);
-#8189=PRODUCT_DEFINITION_FORMATION('A5',$,#8194);
+#8189=PRODUCT_DEFINITION_FORMATION('',$,#8194);
 #8190=PRODUCT_RELATED_PRODUCT_CATEGORY('dwarf-cover-connector',
 'dwarf-cover-connector',(#8194));
 #8191=APPLICATION_PROTOCOL_DEFINITION('international standard',
