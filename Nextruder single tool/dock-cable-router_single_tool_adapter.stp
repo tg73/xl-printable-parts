@@ -9,9 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'dock-cable-router_single_tool_adapter.stp',
-/* time_stamp */ '2023-12-19T11:10:59+01:00',
-/* author */ ('Dominik Tebich'),
+/* name */ 'dock-cable-router_single_tool_adapter_R.stp',
+/* time_stamp */ '2024-01-18T11:09:51+01:00',
+/* author */ ('Mikul\X\E1\X2\010D\X0\ek'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v19.2',
 /* originating_system */ 'Autodesk Inventor 2023',
